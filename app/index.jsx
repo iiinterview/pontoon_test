@@ -1,0 +1,1 @@
+document.l10n.requestLanguages(['en-GB']);
